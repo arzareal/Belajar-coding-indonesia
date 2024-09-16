@@ -5,4 +5,6 @@ tipedata nama = nilai
 ````
 oke jadi kita replace tipedata dengan tipedata yang mau kita pake
 1. int untuk nomor
-2. String untuk kumpulan
+2. String untuk kumpulan kata
+3. Boolean untuk logika
+4. Float untuk nomor tapi ada titik nya
