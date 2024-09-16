@@ -10,3 +10,4 @@ public class main{
 apa artinya?
 ya saya gak tau (beneran)
 ok nanti kita akan belajar tentang print printf dan println 
+bye bye
