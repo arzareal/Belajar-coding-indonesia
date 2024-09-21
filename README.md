@@ -1,2 +1,2 @@
-# belajar-java-indonesia
-Belajar java tapi indonesia
+# belajar-coding-indonesia
+Belajar coding tapi indonesia
